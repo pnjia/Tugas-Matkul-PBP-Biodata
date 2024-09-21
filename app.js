@@ -1,3 +1,9 @@
+const nim = document.querySelector('#nim');
+nim.textContent = "20230040297";
+
+const jurusan = document.querySelector('#jurusan');
+jurusan.textContent = "Teknik Informatika";
+
 const nama = document.querySelector('#name');
 nama.textContent = "Panji Angkasa Putra";
 
